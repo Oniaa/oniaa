@@ -13,6 +13,8 @@
 <p align="left">
 Born and raised in Vienna with Nigerian roots, I hold a Bachelor's degree in Product and Furniture Design. My interest in the tech industry was sparked during my studies, especially through courses on Augmented and Virtual Reality. This passion led me to pursue web development, where I discovered the power of technology in creating visually appealing and user-oriented applications. I am driven by a deep enthusiasm for tech and excited about the endless possibilities it holds for the future.</p>
 
+- 📫 How to reach me **ogbuebele.ony@hotmail.com**
+
 ###
 
 <h2 align="left">I code with</h2>
